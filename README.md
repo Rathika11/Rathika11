@@ -40,13 +40,12 @@ I am passionate about building scalable solutions, exploring new technologies, a
 ---
 
 ## 📫 Contact  
-- 📧 **Email:** *[your email here]*  
+- 📧 **Email:** rathikaraj390@gmail.com  
 - 🌍 **Location:** Coimbatore, Tamil Nadu, India  
-- 💼 **LinkedIn:** *[add LinkedIn link if you want]*
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rathika-raj-054bb9361/
 
 I’m open to internships, collaborations, and opportunities to grow as a developer.
 
 ---
 
-## 📄 License
 
