@@ -6,6 +6,7 @@ I am an **MCA graduate** from **Coimbatore Institute of Technology**, with a str
 
 I enjoy building practical applications, exploring new technologies, and continuously improving my programming and problem-solving skills through hands-on projects and coding practice.
 
+
 ---
 
 ## 🎓 Education
